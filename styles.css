@@ -1,0 +1,132 @@
+body {
+    text-align: center;
+    font-family: "Merriweather Sans", sans-serif;
+    color: rgb(83, 81, 81);
+    margin: 0px;
+}
+h1 {
+    font-family: Sacramento, cursive;
+    font-size: 5.625rem;
+    color: rgb(145, 4, 91);
+    margin: 50px auto 0px;
+}
+h2 {
+    font-family: Montserrat, sans-serif;
+    font-size: 2.5rem;
+    color: crimson;
+}
+p {
+    line-height: 2;
+}
+hr {
+    width: 5%;
+    border-style: dotted dotted none;
+    border-bottom: 6px none rgb(121, 114, 114);
+    border-width: 6px;
+    border-color: rgb(121, 114, 114);
+    margin: 100px auto;
+}
+h3 {
+    font-family: Montserrat, sans-serif;
+    color: rgb(148, 21, 137);
+}
+.top-container {
+    background-color: rgb(255, 171, 171);
+    padding-top: 100px;
+    margin: 0px;
+}
+.cloud1 {
+    margin-top: 10px;
+    top: 40px;
+    position: absolute;
+    right: 180px;
+    bottom: 520px;
+}
+
+.h2 {
+    font-family: Montserrat, sans-serif;
+    font-size: 2rem;
+    color: crimson;
+}
+.cloud2 {
+    position: absolute;
+    bottom: 180px;
+    left: 120px;
+}
+.waterfall {
+    width: 500px;
+    height: 300px;
+    margin-top: 180px;
+}
+.middle-container {
+    margin: 60px 0px;
+}
+
+.p {
+    font-family: "Merriweather Sans", sans-serif;
+    width: 30%;
+    margin: auto;
+}
+
+.s {
+    text-decoration: underline;
+}
+
+.skill-row {
+    width: 50%;
+    text-align: left;
+    margin: 100px auto;
+}
+.computer {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+
+.carrom {
+    position: relative;
+    right: 23px;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 150%;
+}
+.p5 {
+    margin: 40px auto 50px;
+}
+.btn {
+    font-family: Montserrat, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background: linear-gradient(rgb(67, 85, 97), rgb(56, 141, 194)) rgb(67, 85, 97);
+    border-radius: 8px;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.bottom-container {
+    background-color: rgb(255, 171, 171);
+    padding: 50px 0px 20px;
+}
+.footer-link {
+    color: rgb(121, 26, 70);
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+    margin: 10px;
+    text-decoration: none;
+}
+.copyright {
+    color: antiquewhite;
+    font-size: 0.85rem;
+    padding: 20px 0px;
+}
+.footer-link:hover {
+    color: antiquewhite;
+}
+.btn:hover {
+    background: linear-gradient(rgb(168, 18, 128), rgb(29, 183, 194)) rgb(168, 18, 128);
+    text-decoration: none;
+}
+.mypic:hover {
+    border-radius: 50%;
+}
